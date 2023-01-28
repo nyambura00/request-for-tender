@@ -1,0 +1,18 @@
+{
+  "name": "request-for-tender",
+  "version": "1.0.0",
+  "description": "Implementing an RFT system on Celo blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Winnie Nyambura",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1"
+  }
+}
